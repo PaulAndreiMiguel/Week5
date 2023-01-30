@@ -8,3 +8,14 @@
 #paris-heading{
     background-color: pink;
 }
+
+.spans{
+    padding-left: 5px;
+    padding-right: 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
+.classes{
+    border: 10px lightgreen ridge;
+    margin: 5px;
+}
