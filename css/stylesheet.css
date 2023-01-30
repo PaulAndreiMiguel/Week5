@@ -2,6 +2,9 @@
     color: red;
 }
 
-p {
+.headings{
     background-color: beige;
+}
+#paris-heading{
+    background-color: pink;
 }
